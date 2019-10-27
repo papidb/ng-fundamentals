@@ -29,9 +29,9 @@ export class EventsListComponent {
     price: 400,
     imageUrl: "/assets/images/angularconnect-shield.png",
     location: {
-      address: "1084 sdk",
+      address: "1084 DK",
       city: "Lagos",
-      country: "Putdi"
+      country: "England"
     }
   };
 }
